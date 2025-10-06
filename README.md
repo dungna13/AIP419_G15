@@ -15,4 +15,4 @@ Trước tiên, hãy mở **Terminal** (hoặc **Command Prompt**) và chạy l�
 git clone https://github.com/dungna13/AIP419_G15
 cd AIP419_G15
 pip install -r requirement.txt
-```bash
+```
